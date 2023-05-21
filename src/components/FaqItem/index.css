@@ -1,0 +1,25 @@
+/* Write your code here. */
+.listitem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid grey;
+  width: 60vw;
+  margin: 20px;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.line1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 56vw;
+}
+.line {
+  border: 1px solid grey;
+  width: 58vw;
+}
+button {
+  cursor: pointer;
+}
